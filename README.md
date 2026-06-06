@@ -1,115 +1,290 @@
-<div align="center">
+# 👋 Hi, I'm Nitesh Kumar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Nitesh%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=16&descColor=c4b5fd" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Nitesh%20Kumar&fontAlign=50&fontAlignY=40&fontSize=50&desc=Associate%20Software%20Developer%20|%20MERN%20Stack%20Developer&descAlignY=60" />
+</p>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Nitesh+%F0%9F%91%8B;Associate+Software+Developer;Building+ERP+%7C+CRM+%7C+E-Commerce+Apps;MERN+%7C+Next.js+%7C+Firebase+%7C+Socket.io;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nitesh-Kumar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkyadav7318@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/Nitesh-Kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nkyadav7318@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+# 💫 About Me
 
-```typescript
-const nitesh: Developer = {
-  name        : "Nitesh Kumar",
-  role        : "Associate Software Developer @ Aara Technologies",
-  location    : "India 🇮🇳",
-  education   : "B.Tech — AKTU | CGPA 8.2 / 10 | 2024",
-  focus       : ["ERP Systems", "CRM Platforms", "E-Commerce", "Real-time Apps"],
-  stack       : ["React.js", "Next.js", "Node.js", "MongoDB", "Firebase", "Socket.io"],
-  currentGoal : "Building products that scale 🏗️",
-  hobbies     : ["Solving DSA 🧠", "Open Source 🌍", "System Design 📐"],
+```javascript
+const nitesh = {
+  name: "Nitesh Kumar",
+  role: "Associate Software Developer",
+  company: "Aara Technologies",
+  location: "India 🇮🇳",
+
+  education: {
+    degree: "Bachelor of Technology",
+    university: "AKTU",
+    cgpa: "8.2/10",
+    year: "2024"
+  },
+
+  experience: "1+ Year",
+
+  techStack: [
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Firebase",
+    "Socket.io",
+    "Tailwind CSS"
+  ],
+
+  currentFocus: [
+    "ERP Systems",
+    "CRM Platforms",
+    "MRP Applications",
+    "E-Commerce Solutions"
+  ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Professional Summary
 
-<div align="center">
+Associate Software Developer with 1+ year of hands-on experience in building scalable full-stack web applications at Aara Technologies.
+
+Experienced in developing ERP, CRM, MRP, and E-Commerce applications with strong expertise in React.js, Next.js, Node.js, MongoDB, Firebase, Socket.io, and Tailwind CSS.
+
+Passionate about creating responsive user interfaces, integrating APIs, implementing real-time features, and building scalable software solutions.
+
+---
+
+# 💼 Work Experience
+
+## Associate Software Developer
+
+### Aara Technologies Pvt. Ltd.
+
+**April 2025 – Present**
+
+* Developed scalable ERP, CRM, MRP, and E-Commerce applications.
+* Built responsive and high-performance user interfaces using React.js and Next.js.
+* Integrated REST APIs and Firebase services.
+* Implemented real-time functionality using Socket.io.
+* Collaborated with cross-functional teams in Agile development environments.
+* Utilized Git and GitHub for version control and deployment workflows.
+
+---
+
+## React.js Developer Intern
+
+### Aara Groups
+
+**Dec 2024 – March 2025**
+
+* Developed reusable UI components using React.js and Tailwind CSS.
+* Worked on ERP and CRM management systems.
+* Integrated APIs and optimized frontend performance.
+* Improved application responsiveness and user experience.
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express)
 
-### Languages & Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### Cloud & Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
+---
+
+# 🚀 Projects
+
+## 🧑‍💻 Developer Wala
+
+A Coding & Learning Management Platform built using MERN Stack.
+
+### Features
+
+* Student Dashboard
+* Instructor Dashboard
+* Admin Panel
+* Course Management
+* Authentication & Authorization
+* Coding Practice Environment
+* Progress Tracking
+
+### Tech Stack
+
+React.js • Node.js • Express.js • MongoDB
+
+---
+
+## 🏢 ERP Management System
+
+Enterprise Resource Planning solution for business management.
+
+### Features
+
+* Employee Management
+* Attendance Tracking
+* Department Management
+* Reporting Dashboard
+* Role-Based Access
+
+### Tech Stack
+
+React.js • Node.js • MongoDB • Tailwind CSS
+
+---
+
+## 📈 CRM Platform
+
+Customer Relationship Management application.
+
+### Features
+
+* Lead Management
+* Customer Tracking
+* Sales Pipeline
+* Analytics Dashboard
+* Follow-up Management
+
+### Tech Stack
+
+React.js • Express.js • MongoDB • Socket.io
+
+---
+
+## 🛒 E-Commerce Platform
+
+Modern online shopping platform.
+
+### Features
+
+* Product Management
+* Shopping Cart
+* Order Tracking
+* User Authentication
+* Responsive Design
+
+### Tech Stack
+
+React.js • Node.js • MongoDB • Firebase
+
+---
+
+# 🏆 Achievements
+
+* 💻 Solved 100+ DSA Problems on GeeksforGeeks
+* ☕ Earned 4★ Java Badge on HackerRank
+* 🎓 Graduated with CGPA 8.2/10
+* 🚀 MERN Stack Certified (CodeHelp)
+* 🌐 Developed ERP, CRM, MRP & E-Commerce Applications
+
+---
+
+# 📜 Certifications
+
+### MERN Stack Development
+
+CodeHelp
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Full Stack Development
+
+### Professional Training
+
+Aara Groups
+
+* Real-world Project Development
+* Agile Workflow
+* Version Control
+* Team Collaboration
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## ✨ Achievements
+# 🌱 Currently Learning
 
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:---:|---|---|
-| 💻 | **100+ DSA Problems** | GeeksforGeeks — Data Structures & Algorithms |
-| ☕ | **4★ Java** | HackerRank — OOP & Coding Efficiency |
-| 🌐 | **250+ Score** | W3Schools — Modern Web Technologies |
-| 🎓 | **MERN Stack Certified** | CodeHelp — Full-Stack Development |
-| 🏆 | **Merit Recognition** | AKTU — CGPA 8.2 / 10 |
-
-</div>
+* Advanced React Patterns
+* Next.js Optimization
+* System Design
+* Scalable Backend Architecture
+* Advanced DSA
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Goals for 2026
 
-> ⚠️ **Replace `nk7318` below with your exact GitHub username to activate these cards.**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nk7318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk7318&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-<img width="68%" src="https://nirzak-streak-stats.vercel.app?user=nk7318&theme=tokyonight&hide_border=true" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nk7318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nk7318&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+* Build Scalable SaaS Products
+* Master System Design
+* Contribute to Open Source
+* Solve 300+ DSA Problems
+* Grow as a Senior Full-Stack Developer
 
 ---
 
-<div align="center">
+# 📫 Connect With Me
 
-**Thanks for stopping by! Let's connect and build something great 🚀**
+📧 Email: **[nkyadav7318@gmail.com](mailto:nkyadav7318@gmail.com)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Nitesh-Kumar)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail)](mailto:nkyadav7318@gmail.com)
+💼 LinkedIn: **linkedin.com/in/Nitesh-Kumar**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+---
 
-</div>
+<p align="center">
+  <b>First, solve the problem. Then, write the code.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+</p>
