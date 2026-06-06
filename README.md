@@ -12,7 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkyadav7318@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-![Profile Views](https://komarev.com/ghpvc/?username=nk7318&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
 
 </div>
 
@@ -69,43 +68,6 @@ const nitesh: Developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nk7318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk7318&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="68%" src="https://nirzak-streak-stats.vercel.app?user=nk7318&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nk7318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nk7318&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## ✨ Achievements
 
 <div align="center">
@@ -122,11 +84,20 @@ const nitesh: Developer = {
 
 ---
 
+## 📊 GitHub Stats
+
+> ⚠️ **Replace `nk7318` below with your exact GitHub username to activate these cards.**
+
 <div align="center">
 
-### 💬 Dev Quote of the Day
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nk7318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk7318&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img width="68%" src="https://nirzak-streak-stats.vercel.app?user=nk7318&theme=tokyonight&hide_border=true" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nk7318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nk7318&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
