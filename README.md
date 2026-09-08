@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Nitesh-Kumar">
+  <a href="https://www.linkedin.com/in/nitesh-kumar-412565221/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nkyadav7318@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Nitesh-Kumar&style=for-the-badge&color=blueviolet" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nk7318&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
 
 ---
@@ -178,19 +178,17 @@ Real-world Project Development · Agile Workflow · Version Control · Team Coll
 
 ## 📊 GitHub Stats
 
-> ⚠️ Replace `Nitesh-Kumar` below with your actual GitHub username if it differs.
-
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nk7318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk7318&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-Kumar&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nk7318&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Kumar&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nk7318&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
@@ -207,7 +205,7 @@ Build scalable SaaS products · Master system design · Contribute to open sourc
 
 ## 📫 Connect With Me
 
-📧 **[nkyadav7318@gmail.com](mailto:nkyadav7318@gmail.com)** &nbsp;·&nbsp; 💼 **[linkedin.com/in/Nitesh-Kumar](https://linkedin.com/in/Nitesh-Kumar)**
+📧 **[nkyadav7318@gmail.com](mailto:nkyadav7318@gmail.com)** &nbsp;·&nbsp; 💼 **[linkedin.com/in/Nitesh-Kumar](https://www.linkedin.com/in/nitesh-kumar-412565221/)**
 
 <p align="center">
   <b>"First, solve the problem. Then, write the code."</b>
